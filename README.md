@@ -9,7 +9,7 @@ Welcome to the **Playable Piano** project! This is an interactive web-based pian
 - 📱 Works on desktop and mobile devices
 
 ## 🚀 Live Demo
-Check out the live version here: [https://iam269.github.io/Playable-Piano/](https://iam269.github.io/Playable-Piano/)
+Check out the live version here: [https://itsiamdev.github.io/Playable-Piano/](https://itsiamdev.github.io/Playable-Piano/)
 
 ## 🛠️ Technologies Used
 - HTML5
